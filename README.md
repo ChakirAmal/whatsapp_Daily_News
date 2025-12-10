@@ -61,6 +61,14 @@ WhatsApp_Daily_News.json → Main n8n workflow
 Fetch_And_Clean_News.json → Sub-workflow  
 frontend/ → Next.js landing page  
 
+![n8n Workflow](./n8n_workflow.png)
+
+This workflow handles:
+- WhatsApp message reception via Twilio
+- User command detection (`news`, `digest on`, `digest off`)
+- Real-time news fetching
+- AI summarization
+- Automated daily news delivery at 20:00
 ---
 
 ## ⚙️ Prerequisites
