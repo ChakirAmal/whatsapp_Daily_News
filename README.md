@@ -31,14 +31,14 @@ User (WhatsApp)
 
 ## 🧪 Supported Commands
 
+digest on – Subscribe to daily news  
+digest off – Unsubscribe from daily news 
 news tech – Get latest technology news  
 news sport – Get latest sports news  
 news economy – Get latest economic news  
 news world – Get world news  
 news <topic> – Search news by custom topic  
-digest on – Subscribe to daily news  
-digest off – Unsubscribe from daily news  
-help – Show all available commands  
+ 
 
 ---
 
